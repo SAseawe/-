@@ -1,0 +1,23 @@
+{
+	"name": "Streaming Beast",
+	"short_name": "Streaming Be",
+		"description": "Streaming Beast",
+		"icons": [
+			{
+				"src": "https://dqzrr9k4bjpzk.cloudfront.net/images/29468275/1442129403.jpg",
+				"type": "image/jpg",
+				"sizes": "192x192"
+			},
+			{
+				"src": "https://dqzrr9k4bjpzk.cloudfront.net/images/29468275/1442129403.jpg",
+				"type": "image/jpg",
+				"sizes": "512x512"
+			}
+		],
+	"start_url": ".",
+	"background_color": "#FFFFFF",
+	"display": "standalone",
+	"scope": "/",
+	"theme_color": "#FFFFFF",
+	"version": "1.0"
+}
